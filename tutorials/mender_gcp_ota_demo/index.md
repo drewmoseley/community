@@ -360,7 +360,7 @@ protoPayload.methodName="google.cloud.iot.v1.DeviceManager.UpdateDevice")
 
 ![image alt text](images/Mender-on4.png)
 
-Under "Edit Export" section provide a name for the sink, select sink service as “Cloud Pub/Sub” and Sink Destination as “registration-events” as shown below
+Click the button labeled "Create Export" and then under the "Edit Export" section provide a name for the sink, select sink service as “Cloud Pub/Sub” and Sink Destination as “registration-events” as shown below
 
 ![image alt text](images/Mender-on5.png)
 
